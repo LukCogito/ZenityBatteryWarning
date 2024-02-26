@@ -32,7 +32,7 @@ while true; do
       --ok-label="OK."
   fi
 
-  # Wait for 10 minutes (in seconds)
-  sleep 600
+  # Wait for 2 minutes (in seconds)
+  sleep 120
 done
 
